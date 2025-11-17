@@ -1,2 +1,4 @@
+541dd17 Task 2.1
+78cb1f4 Task 1.2
 c55772d Task 1.1
 a49b87e Initial commit
